@@ -1,5 +1,5 @@
 # OperatingSystem
-Developed my own basic operating system using C++
+Developed critical operating system components using C++
 
 The OS that I developed focuses primarily on three main areas.
 1. File system
